@@ -1,4 +1,4 @@
-# FlexForStirredTank
+# Flex for Stirred Tank
 NVIDIA FleXのdemoを拡張し、**物理エンジンを撹拌装置へ適応**しました。
 
 回転数変更など、**設計条件の変更をリアルタイムに可視化**することができます。
