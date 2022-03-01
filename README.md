@@ -1,12 +1,12 @@
 # FlexForStirredTank
-NVIDIA FleX のdemoを拡張し、**物理エンジンを撹拌装置へ適応**しました。
+NVIDIA FleXのdemoを拡張し、**物理エンジンを撹拌装置へ適応**しました。
 
 回転数変更など、**設計条件の変更をリアルタイムに可視化**することができます。
 
 https://user-images.githubusercontent.com/66407509/156123414-284c170e-5f6e-426b-86fd-e15a6e729177.mp4
 
 # 実行環境
-NVIDIA FleX の READMEを参考にしてください。https://github.com/NVIDIAGameWorks/FleX
+NVIDIA FleXのREADMEを参考にしてください。https://github.com/NVIDIAGameWorks/FleX
 
 難しい場合は検索してみてください。
 
@@ -24,7 +24,7 @@ g_params.vorticityConfinementという渦度に基づく力を流体に与える
 -3次元での混合度
 
 # Future Work
--g_params.vorticityConfinement と 回転数の関係を明らかにする。
+-g_params.vorticityConfinement と 回転数の関係 を明らかにする。
 
 -ユーザが回転数を変更した際、自動でvorticityConfinementを調整する機能の実装。
 
@@ -39,6 +39,8 @@ g_params.vorticityConfinementという渦度に基づく力を流体に与える
 [特別研究発表_要旨.pdf](https://github.com/RyuShige/FlexForStirredTank/files/8159621/_._._2.pdf)
 
 [特別研究_論文.pdf](https://github.com/RyuShige/FlexForStirredTank/files/8159623/_._6.pdf)
+
+[特別研究_パワーポイント.pdf](https://github.com/RyuShige/FlexForStirredTank/files/8159861/_.pdf)
 
 # 参考文献
 ## 物理エンジンの応用
