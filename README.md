@@ -10,20 +10,21 @@ NVIDIA FleXのREADMEを参考にしてください。https://github.com/NVIDIAGa
 
 難しい場合は検索してみてください。
 
-# 目標
+# 研究概要
+## 目標
 物理エンジンを撹拌装置へ適応し、**リアルタイムに流れを可視化する。
 
-# 結果，わかったこと
+## 結果，わかったこと
 リアルタイム性を考慮すると、システムの精度は十分有効であること。
 
 g_params.vorticityConfinementという渦度に基づく力を流体に与えるパラメータを導入することで、回転翼の力を反応器全体に伝えることができること。
 
-# 検証方法
+## 検証方法
 -2次元での流速分布
 
 -3次元での混合度
 
-# Future Work
+## Future Work
 -g_params.vorticityConfinement と 回転数の関係 を明らかにする。
 
 -ユーザが回転数を変更した際、自動でvorticityConfinementを調整する機能の実装。
