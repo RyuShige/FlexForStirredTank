@@ -1,2 +1,2 @@
 # FlexForStirredTank
-https://user-images.githubusercontent.com/66407509/156122917-2121fab2-649e-4a59-872f-de982de01b15.gif
+![image](https://user-images.githubusercontent.com/66407509/156123135-2be2cbee-52b3-465c-afd2-2f635732ff25.png)
